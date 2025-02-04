@@ -29,10 +29,3 @@ This project aims to build a machine learning model to predict apartment rental 
 ## **Visualizations**
 - Graphs showing how price changes with different features.
 - Correlation matrix displaying relationships between variables.
-
-## **Team Members**
-- **Vlad Ermakov**
-- **Natallia Patashkevich**
-- **Valeria Aleshnikova**
-
-Each phase of the project brings new improvements to the model. Stay tuned for updates! 🚀
